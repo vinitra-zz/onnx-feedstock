@@ -22,7 +22,7 @@ Current build status
 
 
 <table>
-    
+
   <tr>
     <td>Azure</td>
     <td>
@@ -213,4 +213,3 @@ Feedstock Maintainers
 
 * [@ezyang](https://github.com/ezyang/)
 * [@marcelotrevisani](https://github.com/marcelotrevisani/)
-
